@@ -113,11 +113,9 @@ This is a purely project-based course. It is geared toward beginners, but interm
 
 51. Simple Timer (Bonus Day 1)
 
-Many people jump into a frontend framework too early. Learning vanilla JavaScript and understanding how the document object model works are essential before moving to a framework. This course teaches you this by creating real-world projects of all types.
+Many people jump into a frontend framework too early. Learning vanilla JavaScript and understanding how the document object model works are essential before moving to a framework. This course taught me this by creating real-world projects of all types.
 
-You will also learn more about HTML5 and CSS including semantic tags in your markup, basic CSS properties such as colors, alignment, flexbox, and shadows as well as creating responsive layouts with CSS media queries, CSS custom properties, animations/transitions, and more.
-
-50 projects may seem like a lot, but we were able to make them small enough to where you can complete a project in just a few hours. Of course, this depends on your skill level.
+I also learned more about HTML5 and CSS including semantic tags in my markup, basic CSS properties such as colors, alignment, flexbox, and shadows as well as creating responsive layouts with CSS media queries, CSS custom properties, animations/transitions, and more.
 
 ---
 

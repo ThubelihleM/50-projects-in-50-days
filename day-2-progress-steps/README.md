@@ -1,10 +1,10 @@
-# Project 1 - Expanding Cards
+# Project 2 - Progress Steps
 
-> Project 01 of my **50 Projects in 50 Days** challenge.
+> Project 02 of my **50 Projects in 50 Days** challenge.
 
 ## 📖 Overview
 
-> This project creates an expanding cards widget using HTML, CSS, and JavaScript. This widget can be used in larger project to inhance interactivity. The project demonstrates DOM manipulation, event handling, and basic layouts using flexbox.
+> This project creates an progress steps widget using HTML, CSS, and JavaScript. This widget can be used in larger project to inhance interactivity. The project demonstrates DOM manipulation, event handling, and basic layouts using flexbox.
 
 ---
 
@@ -20,14 +20,14 @@
 
 - DOM Manipulation
 - Event Listeners
-- CSS Flexbox
+- CSS Flexbox/Grid
 
 ---
 
 ## 📂 Project Structure
 
 ```
-day-1-expanding-cards/
+day-2-progress-steps/
 │
 ├── index.html
 ├── style.css
@@ -48,7 +48,7 @@ git clone https://github.com/ThubelihleM/50-projects-50-days.git
 2. Navigate to this project
 
 ```
-cd day-1-expanding-cards
+cd day-2-progress-steps
 ```
 
 3. Open `index.html` in your browser.
