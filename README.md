@@ -11,15 +11,15 @@
 
 This is a purely project-based course. It is geared toward beginners, but intermediate developers can also enjoy creating new things. This course includes 50+ mini projects in HTML, CSS & JavaScript that relate to the DOM (Document Object Model). Here is a list of what is covered in this course:
 
-1. Expanding Cards
+1. Expanding Cards ✔
 
-2. Progress Steps
+2. Progress Steps ✔
 
-3. Rotating Navigation Animation
+3. Rotating Navigation Animation ✔
 
-4. Hidden Search Widget
+4. Hidden Search Widget ✔
 
-5. Blurry Loading
+5. Blurry Loading ✔
 
 6. Scroll Animation
 
