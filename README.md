@@ -21,7 +21,7 @@ This is a purely project-based course. It is geared toward beginners, but interm
 
 5. Blurry Loading ✔
 
-6. Scroll Animation
+6. Scroll Animation ✔
 
 7. Split Landing Page
 
