@@ -23,7 +23,7 @@ This is a purely project-based course. It is geared toward beginners, but interm
 
 6. Scroll Animation ✔
 
-7. Split Landing Page
+7. Split Landing Page ✔
 
 8. Form Wave
 
