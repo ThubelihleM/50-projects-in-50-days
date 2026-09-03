@@ -25,7 +25,7 @@ This is a purely project-based course. It is geared toward beginners, but interm
 
 7. Split Landing Page ✔
 
-8. Form Wave
+8. Form Wave ✔
 
 9. Sound Board
 
