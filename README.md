@@ -27,7 +27,7 @@ This is a purely project-based course. It is geared toward beginners, but interm
 
 8. Form Wave ✔
 
-9. Sound Board
+9. Sound Board ✔
 
 10. Dad Jokes
 
