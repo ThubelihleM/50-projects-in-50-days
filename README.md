@@ -29,7 +29,7 @@ This is a purely project-based course. It is geared toward beginners, but interm
 
 9. Sound Board ✔
 
-10. Dad Jokes
+10. Dad Jokes ✔
 
 11. Event Keycodes
 
