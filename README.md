@@ -31,7 +31,7 @@ This is a purely project-based course. It is geared toward beginners, but interm
 
 10. Dad Jokes ✔
 
-11. Event Keycodes
+11. Event Keycodes ✔
 
 12. Faq Collapse
 
