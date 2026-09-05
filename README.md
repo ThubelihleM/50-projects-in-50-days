@@ -33,7 +33,7 @@ This is a purely project-based course. It is geared toward beginners, but interm
 
 11. Event Keycodes ✔
 
-12. Faq Collapse
+12. Faq Collapse ✔
 
 13. Random Choice Picker
 
