@@ -37,7 +37,7 @@ This is a purely project-based course. It is geared toward beginners, but interm
 
 13. Random Choice Picker ✔
 
-14. Animated Navigation
+14. Animated Navigation ✔
 
 15. Incrementing Counter
 
