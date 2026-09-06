@@ -35,7 +35,7 @@ This is a purely project-based course. It is geared toward beginners, but interm
 
 12. Faq Collapse ✔
 
-13. Random Choice Picker
+13. Random Choice Picker ✔
 
 14. Animated Navigation
 
