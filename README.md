@@ -39,7 +39,7 @@ This is a purely project-based course. It is geared toward beginners, but interm
 
 14. Animated Navigation ✔
 
-15. Incrementing Counter
+15. Incrementing Counter ✔
 
 16. Drink Water
 
