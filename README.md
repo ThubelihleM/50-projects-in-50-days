@@ -45,7 +45,7 @@ This is a purely project-based course. It is geared toward beginners, but interm
 
 17. Movie App ✔
 
-18. Background Slider
+18. Background Slider ✔
 
 19. Theme Clock
 
