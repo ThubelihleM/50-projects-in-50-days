@@ -41,7 +41,7 @@ This is a purely project-based course. It is geared toward beginners, but interm
 
 15. Incrementing Counter ✔
 
-16. Drink Water
+16. Drink Water ✔
 
 17. Movie App
 

@@ -1,10 +1,10 @@
-# Project 15 - Incrementing Counter
+# Project 16 - Drink Water
 
-> Project 15 of my **50 Projects in 50 Days** challenge.
+> Project 16 of my **50 Projects in 50 Days** challenge.
 
 ## 📖 Overview
 
-> This project creates an incrementing counter menu using HTML, CSS, and JavaScript. This widget can be used in larger project to inhance interactivity. The project demonstrates DOM manipulation, event handling, and basic layouts using flexbox.
+> This project tracks your water intake using HTML, CSS, and JavaScript. This widget can be used in larger project to inhance interactivity. The project demonstrates DOM manipulation, event handling, and basic layouts using flexbox.
 
 ---
 
@@ -27,7 +27,7 @@
 ## 📂 Project Structure
 
 ```
-day-15-incrementing-counter/
+day-16-drink-water/
 │
 ├── index.html
 ├── style.css
@@ -48,7 +48,7 @@ git clone https://github.com/ThubelihleM/50-projects-50-days.git
 2. Navigate to this project
 
 ```
-cd day-15-incrementing-counter/
+cd day-16-drink-water
 ```
 
 3. Open `index.html` in your browser.
