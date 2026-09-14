@@ -43,7 +43,7 @@ This is a purely project-based course. It is geared toward beginners, but interm
 
 16. Drink Water ✔
 
-17. Movie App
+17. Movie App ✔
 
 18. Background Slider
 
